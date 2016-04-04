@@ -1,12 +1,12 @@
 ## Russell Vaughan
 
-I'm a half Canadian, half English, half set of twins who doesn't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I have always had a love affair with helping business grow and develop. I've been a part of multiple teams who have launched products and revenue streams from nothing to become seven figure businesses. This year, I'd like to find a company where I can help a company grow and develop in a new way. I'm looking for an environment where, through hard work and a commitment to learning, I can now grow as a junior developer
+I'm half Canadian, half English and one half of a set of twins, but I donn't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I'm really proud of my career and have always had a love affair with helping business grow. However, in software development I've never found something I am so passionate about becoming good at. I'm looking for a role where I can contribute to the development of a company in a new way, and through hard work and a commitment to learning, I can now grow as a junior developer.
 
 ## Skills
 
 #### New Business Development
 
-I love new business development. Makign sure I have an impact for companies I work for is something that is really important to me. I found that bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting about learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
+I love new business development. Making sure I have an impact for companies I work for is something that is really important to me. I found that bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting about learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
 
 - As an individual, I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
 - The honest reality is that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
