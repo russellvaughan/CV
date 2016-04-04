@@ -6,7 +6,7 @@ I'm a half Canadian, half English, half set of twins who doesn't do things by ha
 
 #### New Business Development
 
-I love new business. I think I love it more than old business. I probably should love them equally but the heart doesn't lie and I have a preference for the former. Having an impact on companies through the work I do for them is something that is really important to me. Bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting about learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
+I love new business development. Makign sure I have an impact for companies I work for is something that is really important to me. I found that bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting about learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
 
 - As an individual, I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
 - The honest reality is that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
@@ -17,16 +17,17 @@ I love new business. I think I love it more than old business. I probably should
 
 I would describe myself as a greedy coder. If the world of computer programming were a restaurant, I'd want it to be an all you can eat buffet. I love immersing myself in new languages and find if you put the work in you can get incredible results in a relatively short period of time. 
 
-- In just under two weeks, I built a music streaming service with a Angular frontend and rails API.
+- In two (pretty intensive) days, I individually built a replica Instagram web application in Ruby on Rails
+  https://github.com/russellvaughan/instagram-challenge  
+- In just under two weeks, as part of a team of 5, I built a music streaming service with a Angular frontend and rails API.
   https://github.com/russellvaughan/fairMuse
-- In one week, I managed to build a web app that uses the GitHub API to search through its users. This was all done on a new framework     and language with AngularJs 
+- In one week, as part of a team of 4, I managed to build a web application that uses the GitHub API to search through its users. This was all     done on a new framework and language with AngularJs 
   https://github.com/russellvaughan/githubProfiles
-- In two (pretty intensive) days, I built a replica Instagram in Ruby on Rails
-  https://github.com/russellvaughan/instagram-challenge
+
 
 #### Managment Experience.
 
-I was realtively new to the world of management but really enjoyed it. I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. Further to this, I have also been responsbile for my teams annual performance reviews. I have always been lucky throughout my career to have mentors and people who have helped me grow and develop. When I moved into management I felt the responsiblity to pass that on to my team. One of my favourite aspects of management was being able to help people on my team to learn and progress. I think a big part of that was through setting expectations, honest feedback and listening to their ambitions and goals.
+In my managemnet experience, I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. Further to this, I have also been responsbile for my teams annual performance reviews. I have always been lucky throughout my career to have mentors and people who have helped me grow and develop. When I moved into management I felt the responsiblity to pass that on to my team. One of my favourite aspects of management was being able to help people on my team to learn and progress. I think a big part of that was through setting expectations, honest feedback and listening to their ambitions and goals.
 
 - By setting up best practice systems and process I was able to increase revenue visability for forecasting significantly each month.
 - The team as a whole performed exceptionally well with collective revenue finishing up 11% YOY.
