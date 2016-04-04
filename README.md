@@ -6,7 +6,8 @@ I'm half Canadian, half English and one half of a set of twins, but I donn't do 
 
 #### New Business Development
 
-I love new business development. Making sure I have an impact for companies I work for is something that is really important to me. I found that bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting about learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
+I love new business development. Making sure I have an impact for companies I work for is something that is really important to me. I found that bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting 
+when learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
 
 - As an individual, I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
 - The honest reality is that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
