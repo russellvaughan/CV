@@ -55,7 +55,7 @@ I have had the responsbility for weekly, monthly and yearly forecasting to senio
 **Global Radio** (October 2014 to October 2015)    
 *Group Media Manager*  
 **Global Radio** (May 2012 to October 2014)   
-*Media Manager** 
+**Media Manager** 
 **Clear Channel** 
 *Agency Account Manager*(April 2008 to May 2012)
 **Hays Recruitment** (January 2008 - April 2008 )
