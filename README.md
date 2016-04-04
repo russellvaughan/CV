@@ -1,6 +1,6 @@
 ## Russell Vaughan
 
-I'm half Canadian, half English and one half of a set of twins, but I donn't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I'm really proud of my career and have always had a love affair with helping business grow. However, in software development I've never found something I am so passionate about becoming good at. I'm looking for a role where I can contribute to the development of a company in a new way, and through hard work and a commitment to learning, I can grow as a junior developer.
+I'm half Canadian, half English and one half of a set of twins, but I don't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I'm really proud of my career and have always had a love affair with helping business grow. However, in software development I've never found something I am so passionate about becoming good at. I'm looking for a role where I can contribute to the development of a company in a new way, and through hard work and a commitment to learning, I can grow as a junior developer.
 
 ## Skills
 
@@ -11,7 +11,7 @@ when learning about new businesses and seeing if there is anything you are able 
 
 - I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
 - I understand that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
-- I was also part of a team that launched Dax, a new digital audio advertising network in the UK. In its first year dax acheived 75% market awareness and over £1m in advertising revenues. 
+- I was also part of a team that launched Dax, a new digital audio advertising network, in the UK. In its first year Dax acheived 75% market awareness and over £1m in advertising revenues. 
 - Previously to my media work, I joined a startup recruitment company with 5 employess and $100,000 a year revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
 
 #### Compulsive Coder
