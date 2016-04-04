@@ -1,6 +1,6 @@
 ## Russell Vaughan
 
-I'm half Canadian, half English and one half of a set of twins, but I donn't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I'm really proud of my career and have always had a love affair with helping business grow. However, in software development I've never found something I am so passionate about becoming good at. I'm looking for a role where I can contribute to the development of a company in a new way, and through hard work and a commitment to learning, I can now grow as a junior developer.
+I'm half Canadian, half English and one half of a set of twins, but I donn't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I'm really proud of my career and have always had a love affair with helping business grow. However, in software development I've never found something I am so passionate about becoming good at. I'm looking for a role where I can contribute to the development of a company in a new way, and through hard work and a commitment to learning, I can grow as a junior developer.
 
 ## Skills
 
