@@ -25,9 +25,9 @@ I would describe myself as a greedy coder. If the world of computer programming 
   https://github.com/russellvaughan/githubProfiles
 
 
-#### Managment Experience.
+#### Managment Experience
 
-In my managemnet experience, I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. Further to this, I have also been responsbile for my teams annual performance reviews. I have always been lucky throughout my career to have mentors and people who have helped me grow and develop. When I moved into management I felt the responsiblity to pass that on to my team. One of my favourite aspects of management was being able to help people on my team to learn and progress. I think a big part of that was through setting expectations, honest feedback and listening to their ambitions and goals.
+I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. Further to this, I have also been responsbile for my teams annual performance reviews. I have always been lucky throughout my career to have mentors and people who have helped me grow and develop. When I moved into management I felt the responsiblity to pass that on to my team. One of my favourite aspects of management was being able to help people on my team to learn and progress. I think a big part of that was through setting expectations, honest feedback and listening to their ambitions and goals.
 
 - By setting up best practice systems and process I was able to increase revenue visability for forecasting significantly each month.
 - The team as a whole performed exceptionally well with collective revenue finishing up 11% YOY.
