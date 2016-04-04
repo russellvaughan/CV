@@ -9,8 +9,8 @@ I'm half Canadian, half English and one half of a set of twins, but I donn't do 
 I love new business development. Making sure I have an impact for companies I work for is something that is really important to me. I found that bringing new clients on board was a very tangible way to demonstrate that. There is also something incredibly exciting 
 when learning about new businesses and seeing if there is anything you are able to offer that can help them solve problems. There are also no real shortcuts to finding new business, you have to work hard and get out and find it.
 
-- As an individual, I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
-- The honest reality is that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
+- I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
+- I understand that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
 - I was also part of a team that launched Dax, a new digital audio advertising network in the UK. In its first year dax acheived 75% market awareness and over £1m in advertising revenues. 
 - Previously to my media work, I joined a startup recruitment company with 5 employess and $100,000 a year revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
 
@@ -22,7 +22,7 @@ I would describe myself as a greedy coder. If the world of computer programming 
   https://github.com/russellvaughan/instagram-challenge  
 - In just under two weeks, as part of a team of 5, I built a music streaming service with a Angular frontend and rails API.
   https://github.com/russellvaughan/fairMuse
-- In one week, as part of a team of 4, I managed to build a web application that uses the GitHub API to search through its users. This was all     done on a new framework and language with AngularJs 
+- In one week, as part of a team of 4, I managed to build a web application that uses the GitHub API to search through its users. This was all done on a new framework and language with AngularJs 
   https://github.com/russellvaughan/githubProfiles
 
 
