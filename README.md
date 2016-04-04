@@ -55,6 +55,8 @@ I was realtively new to the world of management but really enjoyed it. I have ha
 **Global Radio** (May 2012 to October 2014)   
 *Media Manager** 
 **Clear Channel** 
-**Agency Account Manager**(April 2008 to May 2012)
+*Agency Account Manager*(April 2008 to May 2012)
 **Hays Recruitment** (January 2008 - April 2008 )
+*Recruitment Consultant*
 **Maxim Group Recruitment – Vancouver, Canada**(June 2006 – January 2008)
+*Recruitment Consultant*
