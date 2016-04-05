@@ -47,10 +47,10 @@ Although based in London, a big part of the reason I choose to take part remotel
 
 During the course, supplmentary to the coursework I also complete the following additional learning resources: 
 
--The Well Grounded Rubyist, David A. Black. 
--Lynda -Ruby Essential Training, Kevin Skoglund. 
--Lynda -RSpec Testing Framework with Ruby, Kevin Skoglund..
--Lynda - Up and Running with AngularJS,  Ray Villalobo.
+-The Well Grounded Rubyist, David A. Black.  
+-Lynda -Ruby Essential Training, Kevin Skoglund.  
+-Lynda -RSpec Testing Framework with Ruby, Kevin Skoglund.  
+-Lynda - Up and Running with AngularJS,  Ray Villalobo.  
 
 #### British Columbia Institute of Technology (September 2000 to May 2002)
 
