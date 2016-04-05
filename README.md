@@ -18,6 +18,14 @@ discovering new businesses and seeing if you are able to offer them solutions to
 
 I would describe myself as a greedy coder. If the world of computer programming were a restaurant, I'd want it to be an all you can eat buffet. I love immersing myself in new languages and find if you put the work in you can get incredible results in a relatively short period of time. 
 
+
+
+| Project Description        |    Link        | 
+| ------------- |:-------------:| 
+| In two (pretty intensive) days, I individually built a replica Instagram web application in Ruby on Rails     | https://github.com/russellvaughan/instagram-challenge   |
+| In just under two weeks, as part of a team of 5, I built a music streaming service with a Angular frontend and rails API.      | https://github.com/russellvaughan/fairMuse     |   
+|In one week, as part of a team of 4, I managed to build a web application that uses the GitHub API to search through its users. This was all done on a new framework and language with AngularJss | https://github.com/russellvaughan/githubProfiles      |    
+
 - In two (pretty intensive) days, I individually built a replica Instagram web application in Ruby on Rails
   https://github.com/russellvaughan/instagram-challenge  
 - In just under two weeks, as part of a team of 5, I built a music streaming service with a Angular frontend and rails API.
