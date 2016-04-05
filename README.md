@@ -74,5 +74,5 @@ During the course, supplmentary to the coursework I also complete the following 
 *Sales Representative*  
 **Vancouver City Savings and Credit Union – Vancouver, Canada**(2003-2004)  
 *Financial Services Representative*  
-**Panasonic Canada- Vancouver, Canada***2002-2003)  
+**Panasonic Canada- Vancouver, Canada**(2002-2003)    
 *Sales Representative*  
