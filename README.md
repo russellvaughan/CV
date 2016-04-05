@@ -65,14 +65,14 @@ During the course, supplmentary to the coursework I also complete the following 
 **Global Radio** (May 2012 to October 2014)   
 *Media Manager*  
 **Clear Channel**  
-*Agency Account Manager*(April 2008 to May 2012)  
+*Agency Account Manager* (April 2008 to May 2012)  
 **Hays Recruitment** (January 2008 - April 2008)  
 *Recruitment Consultant*  
 **Maxim Group Recruitment – Vancouver, Canada** (June 2006 – January 2008)  
 *Recruitment Consultant*  
-**AG Hair Cosmetics & IV Cosmeceuticals – Vancouver, Canada**(2004-2005)  
+**AG Hair Cosmetics & IV Cosmeceuticals – Vancouver, Canada** (2004-2005)  
 *Sales Representative*  
-**Vancouver City Savings and Credit Union – Vancouver, Canada**(2003-2004)  
+**Vancouver City Savings and Credit Union – Vancouver, Canada** (2003-2004)  
 *Financial Services Representative*  
-**Panasonic Canada- Vancouver, Canada**(2002-2003)    
+**Panasonic Canada- Vancouver, Canada** (2002-2003)    
 *Sales Representative*  
