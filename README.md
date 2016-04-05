@@ -44,7 +44,7 @@ Although based in London, a big part of the reason I choose to take part remotel
 
 - Core course focuses: Pair Programming, Object Orientated Programming, Test Driven Development, SOLID Principles, MVC/MVW, Software       Craftsmanship
 - Languages and frameworks used: Ruby, Rails, Javascript, Angular.js
-- Testing Frameworks: Rspec, Jasmine, Mocha, Protractor
+- Testing Frameworks: Rspec, Jasmine, Mocha, Protractor, Capybara
 
 During the course, supplementary to the coursework I also completed the following additional learning resources: 
 
