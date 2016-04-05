@@ -7,10 +7,10 @@ I'm half Canadian, half English and one half of a set of twins, but I don't do t
 #### New Business Development
 
 I love new business development. Ensuring that I make an impact on companies I work for is something that is really important to me. I find that bringing new clients on board is a very tangible way to demonstrate that. There is also something incredibly exciting about
-discovering new businesses and seeing if there you are able to offer them solutions to help solve their problems. There are also no real shortcuts to finding new business, you really have to work hard and get out and find it.
+discovering new businesses and seeing if you are able to offer them solutions to help solve their problems. There are also no real shortcuts to finding new business, you really have to work hard and get out and find it.
 
 - I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
-- I understand that the biggest jobs require a team effort and I was extremely proud to be part of team took BT from a non spender to a multimillon pound advertiser.
+- I understand that the biggest jobs require a team effort and I was extremely proud to be part of team that took BT from a non spender to a multimillon pound advertiser.
 - I was also part of a team that launched Dax, a new digital audio advertising network, in the UK. In its first year Dax acheived 75% market awareness and over £1m in advertising revenues. 
 - Previously to my media work, I joined a startup recruitment company with 5 employess and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
 
@@ -28,7 +28,7 @@ I would describe myself as a greedy coder. If the world of computer programming 
 
 #### Managment Experience
 
-I always look for better and more efficient ways of approaching work. One of the things I loved about managing a team was that it gave me a platform to share some of those processes and instill them throughout the team. Management has also given me more exposure to the higher level workingss of a business. I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. I really love seeing other people succeed and having the responsibilityfor my teams annual performance reviews allowed me to contribute to their success as well.
+I always look for better and more efficient ways of approaching work. One of the things I loved about managing a team was that it gave me a platform to share some of those processes and instill them throughout the team. Management has also given me more exposure to the higher level workingss of a business. I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. I really love seeing other people succeed and having the responsibility for my teams annual performance reviews allowed me to contribute to their success as well.
 
 - By setting up best practice systems and process I was able to increase revenue visability for forecasting by nearly 100% each month.
 - By promoting a mentaility of proactivity and hard work, the team as a whole performed exceptionally well in 2015 with collective        revenue finishing up 11% YOY.
@@ -60,5 +60,5 @@ I always look for better and more efficient ways of approaching work. One of the
 *Agency Account Manager*(April 2008 to May 2012)  
 **Hays Recruitment** (January 2008 - April 2008)  
 *Recruitment Consultant*  
-**Maxim Group Recruitment – Vancouver, Canada**(June 2006 – January 2008)  
+**Maxim Group Recruitment – Vancouver, Canada** (June 2006 – January 2008)  
 *Recruitment Consultant*  
