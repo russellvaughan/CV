@@ -10,9 +10,9 @@ I love new business development. Ensuring that I make an impact on companies I w
 discovering new businesses and seeing if you are able to offer them solutions to help solve their problems. There are also no real shortcuts to finding new business, you really have to work hard and get out and find it.
 
 - I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
-- Understanding that the biggest jobs require a team effort, I was extremely proud to be part of team that took BT from a non spender to a multimillon pound advertiser.
-- I was also part of a team that launched Dax, a new digital audio advertising network, in the UK. In its first year Dax acheived 75% market awareness and over £1m in advertising revenues. 
-- Previously to my media work, I joined a startup recruitment company with 5 employess and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
+- Understanding that the biggest jobs require a team effort, I was extremely proud to be part of team that took BT from a non spender to a multi million pound advertiser.
+- I was also part of a team that launched Dax, a new digital audio advertising network, in the UK. In its first year Dax achieved 75% market awareness and over £1m in advertising revenues. 
+- Previously to my media work, I joined a startup recruitment company with 5 employees and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
 
 #### Compulsive Coder
 
@@ -27,18 +27,18 @@ I would describe myself as a greedy coder. If the world of computer programming 
 |In one week, as part of a team of 4, I managed to build a web application that uses the GitHub API to search through its users. This was all done on a new framework and language with AngularJs | https://github.com/russellvaughan/githubProfiles      |    
 
 
-#### Managment Experience
+#### Management Experience
 
-I always look for better and more efficient ways of approaching work. One of the things I loved about managing a team was that it gave me a platform to share some of those processes and instill them throughout the team. Management has also given me more exposure to the higher level workings of a business. I have had the responsbility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negoations and have been responsible for their managment and implemetation. I really love seeing other people succeed and having the responsibility for my teams annual performance reviews allowed me to contribute to their success as well.
+I always look for better and more efficient ways of approaching work. One of the things I loved about managing a team was that it gave me a platform to share some of those processes and instill them throughout the team. Management has also given me more exposure to the higher level workings of a business. I have had the responsibility for weekly, monthly and yearly forecasting to senior management teams. I've also been a part of annual volume/share deal negotiations and have been responsible for their management and implementation. I really love seeing other people succeed and having the responsibility for my team's annual performance reviews allowed me to contribute to their success as well.
 
-- By setting up best practice systems and processes I was able to increase revenue visability for forecasting by nearly 100% each month.
-- By promoting a mentaility of proactivity and hard work, the team as a whole performed exceptionally well in 2015 with collective        revenue finishing up 11% YOY.
+- By setting up best practice systems and processes I was able to increase revenue visibility for forecasting by nearly 100% each month.
+- By promoting a mentality of proactivity and hard work, the team as a whole performed exceptionally well in 2015 with collective        revenue finishing up 11% YOY.
 - Through setting expectations, honest feedback and listening to their ambitions and goals, I was extremely proud to have three of my      team members promoted while working for me.
 
 ## Education
 
 #### Makers Academy - Ronin (January 2016 to April 2016)
- A Full-Time intenstive, remote, coding bootcamp. 
+ A Full-Time intensive, remote, coding bootcamp. 
 
 Although based in London, a big part of the reason I choose to take part remotely is I that I felt that I would have more time to work harder. Without the commute each day, I could spend that time in front of a computer coding.
 
@@ -46,7 +46,7 @@ Although based in London, a big part of the reason I choose to take part remotel
 - Languages and frameworks used: Ruby, Rails, Javascript, Angular.js
 - Testing Frameworks: Rspec, Jasmine, Mocha, Protractor
 
-During the course, supplmentary to the coursework I also completed the following additional learning resources: 
+During the course, supplementary to the coursework I also completed the following additional learning resources: 
 
 - The Well Grounded Rubyist, David A. Black.  
 - Lynda -Ruby Essential Training, Kevin Skoglund.  
