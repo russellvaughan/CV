@@ -1,18 +1,17 @@
 ## Russell Vaughan
 
-I'm half Canadian, half English and one half of a set of twins, but I don't do things by halves. After a career in media and sales I've made the decision to embrace my lifelong passion for technology and begin a career in software development. I'm really proud of my career and have always had a love affair with helping business grow. However, in software development I've never found something I am so passionate about excelling at. I'm looking for a role where I can contribute to the development of a company in a new way, and through hard work and a commitment to learning, I can grow as a junior developer.
+I am half English, half Canadian, and one half of a set of twins - but I don't do things by halves.  After a career in media and sales, I have made the decision to embrace my lifelong passion for technology and pursue a future in software development.  I am extremely proud of my background and have always had a love affair with helping business grow and develop - however, in software development I have discovered a desire to truly excel.  I am seeking a role in which I can contribute to the development of a company in a new way - where I can grow as a Junior Developer through hard work and commitment to learning
 
 ## Skills
 
 #### New Business Development
 
-I love new business development. Ensuring that I make an impact on companies I work for is something that is really important to me. I find that bringing new clients on board is a very tangible way to demonstrate that. There is also something incredibly exciting about
-discovering new businesses and seeing if you are able to offer them solutions to help solve their problems. There are also no real shortcuts to finding new business, you really have to work hard and get out and find it.
+I love new business development and have found it hugely important that I make an impact on companies I work for.  My experience in bringing new clients on board is a very tangible way to demonstrate that.  When discovering new business, I feel there is something incredibly exciting about seeing if you are able to offer solutions to help solve their unique issues.  My experience has proven to me that there are no real shortcuts to finding new business - you have to work hard and get out to find it.
 
-- I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat.
-- Understanding that the biggest jobs require a team effort, I was extremely proud to be part of team that took BT from a non spender to a multi million pound advertiser.
-- I was also part of a team that launched Dax, a new digital audio advertising network, in the UK. In its first year Dax achieved 75% market awareness and over £1m in advertising revenues. 
-- Previously to my media work, I joined a startup recruitment company with 5 employees and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
+- I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat
+Understanding that the biggest jobs require a team effort, I was extremely proud to be part of team that took BT from a non-spender to a multi-million pound advertiser
+- I was also part of a team that launched Dax, a new digital audio advertising network, in the UK, who, in its first year achieved 75% market awareness and over £1m in advertising revenues
+- Previous to my media work, I joined a startup recruitment company with five employees and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
 
 #### Compulsive Coder
 
