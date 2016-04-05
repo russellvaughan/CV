@@ -69,10 +69,10 @@ During the course, supplmentary to the coursework I also complete the following 
 **Hays Recruitment** (January 2008 - April 2008)  
 *Recruitment Consultant*  
 **Maxim Group Recruitment – Vancouver, Canada** (June 2006 – January 2008)  
-*Recruitment Consultant* 
-**AG Hair Cosmetics & IV Cosmeceuticals – Vancouver, Canada**(2004-2005 )  
-*Sales Representative*
+*Recruitment Consultant*  
+**AG Hair Cosmetics & IV Cosmeceuticals – Vancouver, Canada**(2004-2005)  
+*Sales Representative*  
 **Vancouver City Savings and Credit Union – Vancouver, Canada**(2003-2004)  
 *Financial Services Representative*  
 **Panasonic Canada- Vancouver, Canada***2002-2003)  
-*Sales Representative* 
+*Sales Representative*  
