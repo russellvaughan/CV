@@ -45,7 +45,7 @@ Although based in London, a big part of the reason I choose to take part remotel
 - Languages and frameworks used: Ruby, Rails, Javascript, Angular.js
 - Testing Frameworks: Rspec, Jasmine, Mocha, Protractor
 
-During the course, supplmentary to the coursework I also complete the following additional learning resources: 
+During the course, supplmentary to the coursework I also completed the following additional learning resources: 
 
 - The Well Grounded Rubyist, David A. Black.  
 - Lynda -Ruby Essential Training, Kevin Skoglund.  
