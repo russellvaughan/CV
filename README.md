@@ -35,7 +35,7 @@ I always look for better and more efficient ways of approaching work. One of the
 
 ## Education
 
-#### Makers Academy - Ronin (January 2016 to April 2016)
+#### [Makers Academy](http://www.makersacademy.com/employers/) - Ronin (January 2016 to April 2016)
  A full-time intensive, remote, coding bootcamp. 
 
 Although based in London, a big part of the reason I choose to take part remotely is I that I felt that I would have more time to work harder. Without the commute each day, I could spend that time in front of a computer coding.
