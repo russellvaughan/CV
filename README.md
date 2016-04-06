@@ -12,7 +12,7 @@ I would describe myself as a greedy coder. If the world of computer programming 
 | Project Description        |    Link        | 
 | ------------- |:-------------:| 
 | In two (pretty intensive) days, I built a replica Instagram web application in Ruby on Rails     | https://github.com/russellvaughan/instagram-challenge   |
-| In just under two weeks, as part of a team of 5, we built a music streaming service with a Angular frontend and rails API.      | https://github.com/russellvaughan/fairMuse     |   
+| In just under two weeks, as part of a team of 5, we built a music streaming service with a Angular frontend and rails API.      | [fairMuse](https://github.com/russellvaughan/fairMuse) |   
 |In one week, as part of a team of 4, we managed to build a web application that uses the GitHub API to search through its users. This was all done on a new framework and language with AngularJs | https://github.com/russellvaughan/githubProfiles      |  
 
 #### New Business Development
