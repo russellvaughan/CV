@@ -4,6 +4,17 @@ I am half English, half Canadian, and one half of a set of twins - but I don't d
 
 ## Skills
 
+#### Compulsive Coder
+
+I would describe myself as a greedy coder. If the world of computer programming were a restaurant, I'd want it to be an all you can eat buffet. I love immersing myself in new languages and find if you put the work in you can get incredible results in a relatively short period of time. 
+
+
+| Project Description        |    Link        | 
+| ------------- |:-------------:| 
+| In two (pretty intensive) days, I built a replica Instagram web application in Ruby on Rails     | https://github.com/russellvaughan/instagram-challenge   |
+| In just under two weeks, as part of a team of 5, we built a music streaming service with a Angular frontend and rails API.      | https://github.com/russellvaughan/fairMuse     |   
+|In one week, as part of a team of 4, we managed to build a web application that uses the GitHub API to search through its users. This was all done on a new framework and language with AngularJs | https://github.com/russellvaughan/githubProfiles      |  
+
 #### New Business Development
 
 I love new business development and have found it hugely important that I make an impact on companies I work for.  My experience in bringing new clients on board is a very tangible way to demonstrate that.  When discovering new business, I feel there is something incredibly exciting about seeing if you are able to offer solutions to help solve their unique issues.  My experience has proven to me that there are no real shortcuts to finding new business - you have to work hard and get out to find it.
@@ -12,18 +23,6 @@ I love new business development and have found it hugely important that I make a
 Understanding that the biggest jobs require a team effort, I was extremely proud to be part of team that took BT from a non-spender to a multi-million pound advertiser
 - I was also part of a team that launched Dax, a new digital audio advertising network, in the UK, who, in its first year achieved 75% market awareness and over £1m in advertising revenues
 - Previous to my media work, I joined a startup recruitment company with five employees and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
-
-#### Compulsive Coder
-
-I would describe myself as a greedy coder. If the world of computer programming were a restaurant, I'd want it to be an all you can eat buffet. I love immersing myself in new languages and find if you put the work in you can get incredible results in a relatively short period of time. 
-
-
-
-| Project Description        |    Link        | 
-| ------------- |:-------------:| 
-| In two (pretty intensive) days, I built a replica Instagram web application in Ruby on Rails     | https://github.com/russellvaughan/instagram-challenge   |
-| In just under two weeks, as part of a team of 5, we built a music streaming service with a Angular frontend and rails API.      | https://github.com/russellvaughan/fairMuse     |   
-|In one week, as part of a team of 4, we managed to build a web application that uses the GitHub API to search through its users. This was all done on a new framework and language with AngularJs | https://github.com/russellvaughan/githubProfiles      |    
 
 
 #### Management Experience
