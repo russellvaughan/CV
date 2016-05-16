@@ -21,7 +21,6 @@ I love new business development and have found it hugely important that I make a
 
 - I have brought numerous new major advertising clients on board notably the likes of GSK, Mars and Fiat
 Understanding that the biggest jobs require a team effort, I was extremely proud to be part of team that took BT from a non-spender to a multi-million pound advertiser
-- I was also part of a team that launched Dax, a new digital audio advertising network, in the UK, who, in its first year achieved 75% market awareness and over £1m in advertising revenues
 - Previous to my media work, I joined a startup recruitment company with five employees and $100,000 yearly revenues and in just over a year, we scaled that to a 20 person company with $1.4m in revenues.
 
 
